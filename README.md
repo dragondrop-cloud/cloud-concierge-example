@@ -1,5 +1,5 @@
 # cloud-concierge-example
-Example output produced from running the [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge-example) container.
+Example output produced from running the [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) container.
 
 ## Background Information on Example
 ### Terraform Set-Up
