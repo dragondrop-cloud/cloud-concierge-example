@@ -15,7 +15,7 @@ In this example, we manage the state with Terraform Cloud. cloud-concierge also 
 The .env file we used (with credentials scrubbed) can be found [here](demo.env).
 
 ## Resulting Pull Request
-Check it out [here](https://github.com/dragondrop-cloud/cloud-concierge-example/pull/2)!
+Check it out [here](https://github.com/dragondrop-cloud/cloud-concierge-example/pull/3)!
 
 ### More information on cloud-concierge
 - [Documentation](https://docs.cloudconcierge.io)
